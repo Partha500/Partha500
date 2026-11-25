@@ -5,7 +5,7 @@ I'm a Computer Science student learning software development by building things 
 ## What I'm learning
 
 - HTML & CSS
-- JavaScript
+- JavaScript, Node.js, SQLite
 - C++
 - Data Structures & Algorithms
 - Git & GitHub
@@ -13,6 +13,7 @@ I'm a Computer Science student learning software development by building things 
 ## What I'm building
 
 - ⌨️ Typing Speed Test
+- Register/login system built with Node.js, Express, SQLite, bcrypt and sessions.
 - 🌐 More web projects coming soon
 
 ## A few things I'm working towards
